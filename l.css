@@ -1,0 +1,27 @@
+td
+{  height: 50px;
+  width: 50px;
+  border-color: red;
+  border: solid;
+  
+
+  border-width: 1px;
+	
+}
+#p{
+	  border: solid;
+  margin-left: 359px;
+  margin-right: 469px;
+  margin-top: 8px;
+  height: 42px;
+}
+img{
+	content: url("horse.jpg");;
+	height: 50px;
+	width:50px;
+
+}
+#t
+{
+
+}
